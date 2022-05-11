@@ -2,5 +2,5 @@
   <div class="panel-body">
     Panel content
   </div>
-  <div class="panel-footer">Panels footers</div>
+  <div class="panel-footer">Panel footer</div>
 </div>
