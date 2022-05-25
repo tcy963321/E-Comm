@@ -1,6 +1,19 @@
 ## Step by Step YouTube video
 Following the YouTube video to learn about Laravel Concept. 
 
+## Output
+Capture.PNG
+
+Capture2.PNG
+
+Capture3.PNG
+
+Capture4.PNG
+
+Capture5.PNG
+
+Capture6.PNG
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
