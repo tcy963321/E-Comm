@@ -2,17 +2,19 @@
 Following the YouTube video to learn about Laravel Concept. 
 
 ## Output
-Capture.PNG
 
-Capture2.PNG
+![Capture](https://user-images.githubusercontent.com/52907523/170230264-55172a5a-4380-4649-81d6-08ebf162311a.png)
 
-Capture3.PNG
+![Capture2](https://user-images.githubusercontent.com/52907523/170230310-d5bc4856-88b7-4819-b9ca-d9f3064c8274.png)
 
-Capture4.PNG
+![Capture3](https://user-images.githubusercontent.com/52907523/170230356-def98893-f723-4f0d-9b6c-734316f62224.png)
 
-Capture5.PNG
+![Capture4](https://user-images.githubusercontent.com/52907523/170230407-1090a165-4378-4d7f-be9b-ae30b84df5d3.png)
 
-Capture6.PNG
+![Capture5](https://user-images.githubusercontent.com/52907523/170230447-7a18c162-e255-4fb7-81aa-d3192c507458.png)
+
+![Capture6](https://user-images.githubusercontent.com/52907523/170230534-d83da536-8442-40eb-a7f9-cb1723feff79.png)
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
