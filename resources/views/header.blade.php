@@ -23,6 +23,7 @@ if (Session::has('user')) {
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="{{ url('/') }}">Home</a></li>
+        <li class="active"><a href="{{ url('welcome') }}">Welcome</a></li>
         @if(Session::has('user'))
         <li class=""><a href="{{ url('myorders') }}">Orders</a></li>
     </ul>
